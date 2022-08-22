@@ -9,6 +9,7 @@ const Counter = () => {
   return (
     <Container>
       <div>
+        <h2>Hello!!!</h2>
         <span>{count}</span>
         <div>
           <Button
